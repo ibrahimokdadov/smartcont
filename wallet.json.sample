@@ -1,0 +1,11 @@
+{
+  "infura": "",
+  "rinkeby": {
+      "address": "",
+      "mnemonic": ""
+    },
+  "production": {
+      "address": "",
+      "mnemonic": ""
+    }
+}
